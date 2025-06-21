@@ -13,15 +13,19 @@ import { useHolographicMaterial } from '../shaders/HolographicMaterial.jsx'
  *                           Defaults to [0, 0, 0] if not provided. 
  */
 
-function Planet({ position = [0, 0, 0]}) {
+function Planet({ position = [0, 0, 0], name, onClick }) {
     // Retrieve the shader material and time reference from the custom hook
     const { material, ref } = useHolographicMaterial()
+    
+    const handleClick = () => {
+        if (onClick) onClick(name)
+    }
 
     return (
         // Create a mesh (3D object) using a sphere geometry and the holographic shader material
-        <mesh position={position}>
-        <sphereGeometry args={[1, 32, 32]} />
-        <primitive object={material} attach="material" ref={ref} />
+        <mesh position={position} onClick={handleClick}>
+            <sphereGeometry args={[1, 32, 32]} />
+            <primitive object={material} attach="material" ref={ref} />
         </mesh>
     )
 }

@@ -8,6 +8,214 @@
         "wookiepedia": "https://starwars.fandom.com/wiki/Abednedo_(planet)"
     },
     {
+        "name": "Chrelythiumn",
+        "coord": "K-2",
+        "offset": [-5, -15, 0],
+        "description": "The Chrelythiumn system is a mysterious and largely uncharted region of space, home to the enigmatic Mortis monolith—a towering crystalline structure suspended in the void. Unlike most systems, it contains no known planets or traditional celestial bodies. Instead, the monolith serves as a gateway to Mortis, an ethereal realm steeped in the Force and governed by ancient, godlike beings. The system itself is quiet and eerily still, with no signs of conventional life or civilization. Its existence is known to only a few, often through visions or ancient lore, and those who encounter it rarely return unchanged. Surrounded by myth and reverence, the Chrelythiumn system remains one of the galaxy’s most enigmatic and sacred places.",
+        "region": "Wild Space",
+        "image": "/images/planets/ChrelythiumnSystem-Overlords.png",
+        "wookiepedia": "https://starwars.fandom.com/wiki/Chrelythiumn_system"
+    },
+    {
+        "name": "Lew'el",
+        "coord": "J-3",
+        "offset": [0, -12, 0],
+        "description": "Lew'el is a remote ocean covered planet located in the reaches of Wild Space. Nearly its entire surface is made up of vast open seas, with no major continents, only scattered islands and shallow reefs. The planet is home to a variety of marine life, including star squids, kiln oysters, and wind trusters, all adapted to the planet’s dynamic and sometimes perilous waters. Settled by humans long ago, the native Lewelans have developed a deep connection to the sea and live in harmony with the rhythms of nature. With regions like the Doldrums and island communities such as Ulon Atur and Ulon Ipo Lito, Lew'el’s society is built on balance, self reliance, and a respect for the power of the ocean. Quiet and isolated, the planet is untouched by galactic conflict, existing almost as a forgotten world, peaceful but full of ancient knowledge and tradition.",
+        "region": "Wild Space",
+        "image": "/images/planets/Lewel.png",
+        "wookiepedia": "https://starwars.fandom.com/wiki/Lew'el"
+    },
+    {
+        "name": "Bastion",
+        "coord": "K-3",
+        "offset": [-8, -8, 0],
+        "description": "Bastion is a heavily industrialized planet located in the Outer Rim Territories, known for its strategic infrastructure and military significance. Its surface is marked by sprawling urban centers, starship factories, and administrative complexes that support large scale manufacturing and logistics. The planet played a key role in galactic history as a center of power for the remnants of the Galactic Empire and later served as part of the foundation for the rise of the First Order. Despite its utilitarian appearance, Bastion is a symbol of order and resilience for those aligned with Imperial ideals. Its location and facilities make it a crucial hub in the Outer Rim, connecting major routes and reinforcing its importance in the shifting balance of power.",
+        "region": "Outer Rim",
+        "sector": "Braxant sector",
+        "system": "Bastion system",
+        "image": "",
+        "wookiepedia": "https://starwars.fandom.com/wiki/Bastion"
+    },
+    {
+        "name": "Anthan",
+        "coord": "K-3",
+        "offset": [-8, -12, 0],
+        "description": "The Anthan system is a remote star system in the Outer Rim’s Braxant sector, best known for its central planet, Anthan Prime. Surrounded by a thick gaseous atmosphere, Anthan Prime is orbited by numerous moons, each varying in size and distance. The closest, Anthan 1, drifts within the planet’s dense upper atmosphere, while mid-range moons like Anthan 12, 13, and 14 are more stable and distinct in orbit. The system has strategic relevance due to its location along established hyperspace routes and its proximity to industrial worlds like Bastion. Though not widely populated, the Anthan system has long served as a waypoint and logistical node within the Outer Rim.",
+        "region": "Outer Rim",
+        "sector": "Braxant sector",
+        "system": "Anthan system",
+        "image": "",
+        "wookiepedia": "https://starwars.fandom.com/wiki/Anthan_system"
+    },
+    {
+        "name": "Bescane",
+        "coord": "K-3",
+        "offset": [-8, -15, 0],
+        "description": "Bescane is a celestial body situated in the Outer Rim Territories, within a region known as the New Territories. It lies along key hyperspace routes that link it to nearby worlds such as Bastion, Dubrillion, and Jaemus, making it part of a network of strategic locations in the Outer Rim. While little is known about its surface features or population, Bescane’s significance comes from its position as a transit point and its role in regional navigation and logistics. Its placement within established routes suggests it may serve as a waypoint or support system for travel and trade across this part of the galaxy.",
+        "region": "Outer Rim",
+        "sector": "Obtrexta sector",
+        "system": "Bescane system",
+        "image": "",
+        "wookiepedia": "https://starwars.fandom.com/wiki/Bescane"
+    },
+    {
+        "name": "Agoliba-Tu",
+        "coord": "K-3",
+        "offset": [7, -8, 0],
+        "description": "The Agoliba-Tu system is a remote star system in the Veragi sector of the Outer Rim Territories, known for its sparse celestial layout and scientific interest. It contains two known planets, Agoliba-Ado and Agoliba-Ena, as well as a field of asteroids that host unique lifeforms. Among these is a massive exogorth, commonly known as a space slug, studied by researchers including Luke Skywalker and a visiting biologist. The system remains largely uninhabited and underexplored, making it a quiet but intriguing location for scientific observation and study of rare deep space organisms.",
+        "region": "Outer Rim",
+        "sector": "Veragi sector",
+        "system": "Agoliba-Tu system",
+        "image": "/images/planets/AgolibaTusystem-LoLSManga.png",
+        "wookiepedia": "https://starwars.fandom.com/wiki/Agoliba-Tu_system"
+    },
+    {
+        "name": "Dubrillion",
+        "coord": "K-3",
+        "offset": [4, -13, 0],
+        "description": "Dubrillion is an astronomical object located in the galaxy's Outer Rim Territories. Its specific features, environment, and population remain undocumented, but its presence within the Outer Rim places it among the many remote and often less explored regions of the galaxy.",
+        "region": "Outer Rim",
+        "sector": "Myto sector",
+        "system": "Dubrillion system",
+        "image": "",
+        "wookiepedia": "https://starwars.fandom.com/wiki/Dubrillion"
+    },
+    {
+        "name": "Belladoon",
+        "coord": "K-3",
+        "offset": [6, -16, 0],
+        "description": "Dubrillion is an astronomical object located in the galaxy's Outer Rim Territories. Its specific features, environment, and population remain undocumented, but its presence within the Outer Rim places it among the many remote and often less explored regions of the galaxy.",
+        "region": "Outer Rim",
+        "sector": "Myto sector",
+        "system": "Belladoon system",
+        "image": "",
+        "wookiepedia": "https://starwars.fandom.com/wiki/Belladoon"
+    },
+    {
+        "name": "Sernpidal",
+        "coord": "L-3",
+        "offset": [3, 0, 0],
+        "description": "Sernpidal is an astronomical object located in the galaxy's Outer Rim Territories. While little is detailed about its physical characteristics or settlements, it is known for being part of the Outer Rim's vast and often perilous frontier. Its mention in galactic records marks it as one of many remote worlds scattered across this distant region of space.",
+        "region": "Outer Rim",
+        "sector": "Dalonbian sector",
+        "system": "Sernpidal system",
+        "image": "",
+        "wookiepedia": "https://starwars.fandom.com/wiki/Sernpidal"
+    },
+    {
+        "name": "Arbiflux",
+        "coord": "L-3",
+        "offset": [-1, -3, 0],
+        "description": "Arbiflux is a terrestrial planet located in the far reaches of the Outer Rim Territories, within a region that intersects with the New Territories. The planet features a varied natural landscape, including dense forests, open grasslands, dirt plains, and rugged mountain ranges. Its atmosphere is breathable to humans, though it carries a distinctly unpleasant odor. Arbiflux experiences regular rainfall and storms, contributing to its diverse ecosystem. The planet is orbited by at least four moons and is situated along the Veragi Trade Route between Oru and Sernpidal. Native life includes the nuna bird and the chatterplant, a unique flora capable of producing sound used for signaling or warning.",
+        "region": "Outer Rim",
+        "sector": "Dalonbian sector",
+        "system": "Arbiflux system",
+        "image": "/images/planets/Arbiflux_space.jpg",
+        "wookiepedia": "https://starwars.fandom.com/wiki/Arbiflux"
+    },
+    {
+        "name": "Oru",
+        "coord": "L-3",
+        "offset": [-5, -5, 0],
+        "description": "Oru is a planet in the Outer Rim Territories, once home to a resilient group of human warriors known as the Oruans. The world was rich in natural resources before being seized and exploited by the First Order, which left the environment toxic and unlivable. The Oruans mounted a fierce resistance under the leadership of the strategist Mezlo and came close to reclaiming their home. However, the scale of destruction forced them to evacuate and establish a new life at Horizon Base. Oru remains a symbol of lost heritage and the enduring will of its displaced people.",
+        "region": "Outer Rim",
+        "sector": "Veragi sector",
+        "system": "Oru system",
+        "image": "",
+        "wookiepedia": "https://starwars.fandom.com/wiki/Oru"
+    },
+    {
+        "name": "Lokud",
+        "coord": "L-3",
+        "offset": [1, -10, 0],
+        "description": "Lokud 7 is a jungle world located in the Outer Rim Territories, covered in dense vegetation and humid terrain. During the Galactic Civil War, the planet became a temporary refuge for Rebel Alliance spies carrying vital Imperial intelligence. Their presence drew the attention of Darth Vader, who pursued them to the surface. Though largely uncharted and remote, Lokud 7’s thick jungles provided natural cover and made it a fitting backdrop for covert operations and dangerous encounters.",
+        "region": "Outer Rim",
+        "sector": "Chopani sector",
+        "system": "Lokud system",
+        "image": "/images/planets/Lokud7-VaderDarkVisions5.jpg",
+        "wookiepedia": "https://starwars.fandom.com/wiki/Lokud_7"
+    },
+    {
+        "name": "Lah'mu",
+        "coord": "L-3",
+        "offset": [-8, -16, 0],
+        "description": "Lah'mu is a remote and largely inaccessible planet in the Outer Rim Territories, known for its lush green surface and striking natural beauty. The world is covered in rain-soaked farmlands, black sand beaches, mountain ranges, saline seas, and active volcanoes, especially in its eastern hemisphere. Its biosphere uniquely converts iron into chlorophyll, giving the landscape a deep green hue. Lah'mu is ringed by silica debris, remnants of a shattered ancient moon, and retains one natural satellite. Though fertile, its soil and groundwater are rich in minerals like zinc, chlorine, and cobalt, making the water unpleasant to drink. Volcanic and geothermal activity shape both the land and weather, contributing to frequent rainfall and mineral rich terrain. Settlements are found mostly in the western hemisphere, where the lowlands support isolated agricultural communities.",
+        "region": "Outer Rim",
+        "sector": "Raioballo sector",
+        "system": "Lah'mu system",
+        "image": "/images/planets/Lahmu-full-SWCT.png",
+        "wookiepedia": "https://starwars.fandom.com/wiki/Lah'mu"
+    },
+    {
+        "name": "Danzik",
+        "coord": "M-3",
+        "offset": [-3, -4, 0],
+        "description": "Danzik is a terrestrial planet located in the Outer Rim Territories, within a region also considered part of the New Territories. Its surface is marked by extensive swamplands, forming a humid and murky environment that supports a unique ecosystem. Danzik is best known as the homeworld of the Danzikan species, a two headed sentient people who speak the Danzikan language. The planet lies along the Veragi Trade Route, connecting it to nearby worlds like Sernpidal and Birgis. Though remote, Danzik has drawn cultural interest, with artistic records about its inhabitants eventually being preserved and displayed in the Graf Archive following the rise of the New Republic.",
+        "region": "Outer Rim",
+        "sector": "Dalonbian sector",
+        "system": "Danzik system",
+        "image": "",
+        "wookiepedia": "https://starwars.fandom.com/wiki/Danzik"
+    },
+    {
+        "name": "Zeffo",
+        "coord": "M-3",
+        "offset": [2, -11, 0],
+        "description": "Zeffo is an isolated planet in the Outer Rim Territories, located near the Veragi Trade Route in a region known as the New Territories. From orbit, the planet appears as a green and blue sphere with thick white cloud cover. Its surface is shaped by strong electromagnetic winds and features rocky mountain ranges, grassy cliffs, snowy plateaus, and large bodies of water. Zeffo is home to dangerous native fauna such as Jotaz, Phillaks, and Scazz. The planet was once the center of the ancient Zeffonian civilization, whose ruins, tombs, and catacombs still mark the landscape. Though the Zeffonians had vanished by the time of the Clone Wars, Zeffo later drew interest from Republic archaeologists and was eventually occupied by the Galactic Empire, which damaged parts of the surface during Project Auger.",
+        "region": "Outer Rim",
+        "sector": "Kanz sector",
+        "system": "Zeffo system",
+        "image": "/images/planets/Zeffo.jpg",
+        "wookiepedia": "https://starwars.fandom.com/wiki/Zeffo#Description"
+    },
+    {
+        "name": "Aeos",
+        "coord": "M-3",
+        "offset": [-6, -15, 0],
+        "description": "Aeos, also known as Aeos Prime, is a terrestrial planet located in the Aeos system of the Outer Rim Territories. The planet is dominated by vast oceans, with only scattered small islands rising above the surface. Beneath the waves, a network of rocky caverns and tunnels forms a hidden underwater landscape. Aeos is encircled by a planetary ring and supports a breathable atmosphere suitable for both native Aeosians and visiting species such as humans. Among its most remarkable lifeforms is the krakavora, an aquatic creature capable of flight using webbed wings, often ridden by the Aeosians as a form of transport.",
+        "region": "Outer Rim",
+        "sector": "Chopani sector",
+        "system": "Aeos system",
+        "image": "/images/planets/AeosPrime-TheNewWorld.png",
+        "wookiepedia": "https://starwars.fandom.com/wiki/Aeos_Prime"
+    },
+    {
+        "name": "Bogano",
+        "coord": "N-3",
+        "offset": [-5, -15, 0],
+        "description": "Bogano is a quiet and largely uninhabited planet located in the Outer Rim. Its surface is dominated by flat grassy plains, interrupted by deep ravines and sinkholes formed from soft limestone and clay. Beneath its surface lies a network of water-filled caves, adding to the planet’s layered terrain. With no major settlements or industrial activity, Bogano remains relatively untouched, making it a peaceful and secluded world known more for its natural beauty than for its role in galactic affairs.",
+        "region": "Outer Rim",
+        "sector": "Mieru'kar sector",
+        "system": "Bogano system",
+        "image": "/images/planets/Bogano-Planet-View.jpg",
+        "wookiepedia": "https://starwars.fandom.com/wiki/Bogano"
+    },
+    {
+        "name": "Kellgar",
+        "coord": "O-3",
+        "offset": [-4, -11, 0],
+        "description": "Kellgar Seven is a terrestrial planet located on the fringes of the Outer Rim Territories. Remote and largely uncharted, the world is known primarily for its role in a heist carried out by a cell of the Spice Runners of Kijimi. Its surface and environment remain largely undocumented, but its isolation made it an ideal setting for covert operations. Though not widely known or inhabited, Kellgar Seven has found its place in galactic records through the actions of the criminals who once passed through it.",
+        "region": "Outer Rim",
+        "sector": "Mieru'kar sector",
+        "system": "Kellgar system",
+        "image": "",
+        "wookiepedia": "https://starwars.fandom.com/wiki/Kellgar_Seven"
+    },
+    {
+        "name": "Basteel",
+        "coord": "P-3",
+        "offset": [3, -16, 0],
+        "description": "Basteel is a cold, mountainous planet located in the Corva sector. Its terrain is rugged and steep, with almost no flat land and minimal vegetation. The harsh surface conditions have led its inhabitants to build subterranean cities beneath the rock, where they are sheltered from the freezing climate. The capital, Eladro City, serves as the central hub of life on the planet. Despite its inhospitable exterior, Basteel supports a resilient population adapted to life below the surface.",
+        "region": "Outer Rim",
+        "sector": "Corva sector",
+        "system": "Basteel system",
+        "image": "",
+        "wookiepedia": "https://starwars.fandom.com/wiki/Basteel"
+    },
+
+    
+    
+    {
         "name": "Agaris",
         "coord": "G-14",
         "offset": [-2, 1, 0],

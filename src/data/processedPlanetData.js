@@ -4,7 +4,7 @@ import GridMapper from '../utils/gridMapper'
 /**
  * The grid layout configuration, used both for rendering the grid and mapping coordinates.
  */
-export const gridSize = 200
+export const gridSize = 400
 export const divisions = 21
 
 /**

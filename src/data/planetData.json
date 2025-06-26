@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Abednedo",
+        "coord": "N-12",
+        "offset": [-2, 1, 0],
+        "description": "Abednedo is a terrestrial planet located in the Abrion sector of the Outer Rim Territories, known as the homeworld of the Abednedo species. It features a temperate climate with a variety of landscapes, including open plains, fertile farmland, and river systems that support a largely agrarian society. The planet is recognized for its progressive, democratic culture and emphasis on diplomacy and cooperation, which made it a natural ally to the New Republic. Its capital city, Pujool, serves as a cultural and political center. Though not a major galactic power, Abednedo holds a respected place in interstellar affairs due to its peaceful values, strategic location, and contributions to the Republic cause.",
+        "image": "/images/planets/AbedNedo.jpg",
+        "wookiepedia": "https://starwars.fandom.com/wiki/Abednedo_(planet)"
+    },
+    {
+        "name": "Agaris",
+        "coord": "G-14",
+        "offset": [-2, 1, 0],
+        "description": "Agaris is a planet located in the Hydian Way region of the galaxy, known primarily as the homeworld of the reptilian Agarian species. The planet is characterized by its humid climate, swampy lowlands, and dense vegetation, which create a challenging but rich natural environment. Agaris has limited involvement in galactic politics and remains relatively obscure, with a culture centered around local traditions and a strong connection to the natural world. Its population lives in harmony with the ecosystem, adapting their architecture and lifestyle to the terrain. Though not widely known, Agaris contributes to the galaxy’s biodiversity and cultural variety.",
+        "image": "",
+        "wookiepedia": "https://starwars.fandom.com/wiki/Agaris"
+    },
+    {
+        "name": "Tatooine",
+        "coord": "R-16",
+        "offset": [-2, 1, 0],
+        "description": "Tatooine is a remote desert planet located in the Outer Rim Territories, notable for its distinctive twin suns which create a hot, arid climate across its surface. The terrain is dominated by vast dune seas, rocky canyons, and scattered mesas, with very little surface water. Settlements are typically small and utilitarian, relying on moisture farming and trade to sustain life. The planet's native inhabitants include the nomadic Tusken Raiders and the scavenging Jawas, while its spaceports (such as Mos Eisley and Mos Espa) serve as hubs for trade, travel, and often illicit activity. Tatooine's isolation and harsh environment make it a challenging place to live, but also a common refuge for those seeking to avoid attention.",
+        "image": "/images/planets/Tatooine_TPM.png",
+        "wookiepedia": "https://starwars.fandom.com/wiki/Tatooine"
+    },
+    {
+        "name": "Naboo",
+        "coord": "O-17",
+        "offset": [0, 5, 0],
+        "description": "Naboo is a lush, temperate planet located in the Mid Rim, known for its rolling grasslands, sparkling lakes, and dense swamps. The planet features a rich ecosystem and a striking balance between nature and civilization. Its human population lives primarily in elegant cities such as Theed, which is renowned for its classical architecture and cascading waterfalls. Beneath the surface, the Gungan species inhabit vast underwater cities within the planet’s oceans. Naboo has a peaceful and cultured society, with a strong tradition of elected leadership and artistic achievement. Its natural beauty, diverse landscapes, and harmonious coexistence of different species make it one of the most admired worlds in the galaxy.",
+        "image": "/images/planets/Naboo_planet.png",
+        "wookiepedia": "https://starwars.fandom.com/wiki/Naboo"
+    },
+
+    {
+        "name": "Coruscant",
+        "coord": "L-9",
+        "offset": [1, 0, 0],
+        "description": "Coruscant is a massive city-covered planet located near the galaxy’s core, serving as a political, cultural, and economic hub for countless star systems. Known as the “Galactic City,” Coruscant’s entire surface is a sprawling urban landscape, layered with thousands of levels that stretch from the underworld to towering spires reaching into the upper atmosphere. It is home to the Galactic Senate, the Jedi Temple, and many of the galaxy’s most influential institutions. Despite its glittering skyline and advanced infrastructure, Coruscant contains vast disparities in wealth and quality of life, with the lower levels plagued by crime and poverty. As the symbolic heart of galactic civilization, Coruscant is a planet where power, history, and complexity converge.",
+        "image": "/images/planets/CoruscantGlobeE1.png",
+        "wookiepedia": "https://starwars.fandom.com/wiki/Coruscant"
+    }
+]

@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+.planet-info-panel {
+    position: absolute;
+    top: 50%;
+    right: 20%;
+    width: 350px;
+    height: 700px;
+    transform: translateY(-50%) scale(0.98);
+    display: flex;
+    flex-direction: column;
+    background: black;
+    color: white;
+    border: 1px solid #3a9bdc;
+    box-shadow: 0 0 20px rgba(0, 170, 255, 0.3);
+    z-index: 1000;
+    overflow: hidden;
+    border-radius: 12px;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 5.0s ease, transform 5.0s ease;
+}
+
+.planet-info-panel.visible {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateY(-50%) scale(1);
+}
+
+.planet-image-container {
+    height: 50%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+}
+
+.planet-image {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+
+}
+
+.planet-details {
+    flex: 1;
+    overflow-y: auto;
+    padding: 15px 20px;
+    scrollbar-width: thin;
+    scrollbar-color: #3a9bdc #222;
+    
+}
+
+.planet-details h2 {
+    margin: 0 0 8px;
+    font-size: 1.4em;
+    font-family: 'Marvin Visions', sans-serif;
+    color: #53a2d6;
+}
+
+.planet-details p {
+    margin: 6px 0;
+    font-size: 0.95em;
+    line-height: 1.4;
+    font-family: 'Inter', sans-serif;
+    color: #53a2d6;
+}
+
+.see-more {
+    display: inline-block;
+    margin-top: 12px;
+    color: #3a9bdc;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.see-more:hover {
+    text-decoration: underline;
+}
+
+.close-button {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    background: none;
+    color: #aaa;
+    font-size: 1.2em;
+    border: none;
+    cursor: pointer;
+}
+
+.close-button:hover {
+    color: white;
+}
+
+@font-face {
+    font-family: 'Marvin Visions';
+    src: url('/fonts/MarvinVisionsBig-Bold.woff2') format('woff2'),
+        url('/fonts/MarvinVisionsBig-Bold.woff') format('woff'),
+        url('/fonts/MarvinVisionsBig-Bold.ttf') format('truetype'),
+        url('/fonts/MarvinVisionsBig-Bold.otf') format('opentype'),
+        url('/fonts/MarvinVisionsBig-Bold.eot') format('embedded-opentype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anakin Mono';
+    src: url('/fonts/AnakinmonoRegular-n1lP.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
